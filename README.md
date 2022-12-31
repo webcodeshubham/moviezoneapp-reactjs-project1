@@ -10,18 +10,17 @@ This Project covers the fundamentals &amp; terminologies of React JS which inclu
 
 # Technologies Used
 
-* React JS Library
-* HTML - 5
-* CSS - 3
-* JS ES6
-* GitHub Version Control System
-* Replit Deployment
+- React JS Library
+- HTML - 5
+- CSS - 3
+- JS ES6
+- GitHub Version Control System
+- Replit Deployment
 
 # Usage
 
-* Download the Project Repository Zip File.
-* Run the React Server => npm start
-* Termiante the Server => Ctrl+C
+- Download the Project Repository Zip File.
+- Run the React Server => npm start
+- Termiante the Server => Ctrl+C
 
 React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta and a community of individual developers and companies.
-
