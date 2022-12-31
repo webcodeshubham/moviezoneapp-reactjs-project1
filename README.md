@@ -2,7 +2,7 @@
 
 This Project covers the fundamentals &amp; terminologies of React JS which includes Node, NPM, NPX, Component, JSX, Hooks, State, Conditionals, Virtual DOM, Babel, etc.
 
-[LIVE HOSTED WEBSITE REPLIT](https://moviezoneapp-reactjs-project1.shubhamshriva15.repl.co)
+[LIVE HOSTED WEBSITE REPLIT](https://moviezoneapp-reactjs-project1.shubhamshriva15.repl.co/)
 
 # Screenshot
 
