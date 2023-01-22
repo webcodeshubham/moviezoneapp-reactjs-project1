@@ -21,6 +21,6 @@ This Project covers the fundamentals &amp; terminologies of React JS which inclu
 
 - Download the Project Repository Zip File.
 - Run the React Server => npm start
-- Termiante the Server => Ctrl+C
+- Terminate the Server => Ctrl+C
 
 React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta and a community of individual developers and companies.
